@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pervy" group-title="Общие" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1",Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" group-title="Общие" tvg-logo="https://i.postimg.cc/kXvbsgCP/89e442b0f789e5cabcf47b0b9c549720.png" logo="http://ex.iptvin.ru/pic/1/10.jpg" channelId="2" tvg-logo="https://i.postimg.cc/kXvbsgCP/89e442b0f789e5cabcf47b0b9c549720.png",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/tvico-n52.png" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4",Матч!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="Общие" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" logo="http://overlay.iptvin.ru/epg/PIC/%D0%9D%D0%A2%D0%92.png" channelId="6",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Общие" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="kultura" group-title="Общие" tvg-logo="https://i.postimg.cc/pL0nNcy0/e4c7a5238a07abf9f03cff9cced65b83.png" logo="http://ex.iptvin.ru/pic/1/15.jpg" channelId="5",Россия К
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 channelId="10" tvg-id="rossia-24" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" logo="http://ex.iptvin.ru/pic/1/24.jpg" group-title="Общие",Россия 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="karusel" group-title="Общие" tvg-logo="http://only4.tv/ch/822.png" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20",Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="otr" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/OTR-logo.jpg" logo="http://overlay.iptvin.ru/epg/PIC/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr" group-title="Общие" tvg-logo="https://i.postimg.cc/BQXHps5z/ab8c1792aec7a49953627fe997774bb9.png" logo="http://overlay.iptvin.ru/epg/PIC/TVCENTR.png" channelId="13",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="rentv" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/ren-logo.jpg" logo="https://i.postimg.cc/4dWqkhrk/6900abad5b72092009961dfa20d42abc.png" channelId="11",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="spas" group-title="Общие" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 tvg-id="sts" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/ctc-logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/014-domashniy-1.jpg" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="943063906598",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Общие" tvg-logo="https://i.postimg.cc/CKdmB1wL/4527286dada5083b83bb0d03fabfa5ae.png" logo="https://i.postimg.cc/vHMh7XGK/0445f903c7bc8f136486a8cefd534321.png" channelId="8",ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica" group-title="Общие" tvg-logo="http://only4.tv/ch/1009.png" logo="http://ex.iptvin.ru/pic/2/Pyatnica-220x132-tr.png" channelId="26",Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="Общие" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://ex.iptvin.ru/pic/2/zvezda.png" channelId="17",Звезда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="Общие" tvg-logo="https://i.postimg.cc/3xh96X00/bb0fe67f7ce64c04706db96b2eccdd2e.png" logo="https://i.postimg.cc/X7dQQHq0/a45aed909a51d78c8119320ae6c356ae.png" channelId="138",Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/logo-tnt-s.jpg" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="muztv" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/25a360b6fee73e109c13d9cb87be8500.png" logo="http://ex.iptvin.ru/pic/2/39cf8ffa0c8c658be1d5ed50c0fd61be.png" channelId="136",Муз ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="che" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/che-s.jpg" logo="http://ex.iptvin.ru/pic/2/CHe-220x132-tr.png" channelId="22",Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love" group-title="Общие" tvg-logo="https://i.postimg.cc/wM333mmq/a0c23df588be812ab898fbf1e1813d41.png" logo="https://i.postimg.cc/q7fKYjC8/f58b0704a520aadcc7f197802c32c9de.png" channelId="1571",СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/tht4.jpg" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77",ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="2na2" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/024614b06bdfdc2444ef5229fab8773c.png" logo="http://ex.iptvin.ru/pic/2/22654940aeed4b5e8654e5c870d2915a.png" channelId="14",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="super" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/034-subbota.jpg" logo="http://ex.iptvin.ru/pic/2/Subbota-220x132-tr.png" channelId="3876" shift="3",Суббота!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="yu" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/027-u.jpg" logo="http://ex.iptvin.ru/pic/2/YU-220x132-tr.png" channelId="23",Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-id="solnce" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/Solnce-220x220.png" logo="http://ex.iptvin.ru/pic/2/Solnce-220x132-tr.png" channelId="958",Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
