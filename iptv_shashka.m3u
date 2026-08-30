@@ -53,3 +53,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-id="solnce" group-title="Общие" tvg-logo="http://ex.iptvin.ru/pic/2/Solnce-220x220.png" logo="http://ex.iptvin.ru/pic/2/Solnce-220x132-tr.png" channelId="958",Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
