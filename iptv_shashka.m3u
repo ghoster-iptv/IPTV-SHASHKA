@@ -64,6 +64,6 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="Пакет телеканалов Матч!", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Пакет телеканалов Матч!", Матч! Страна
-https://static.tildacdn.com/vide3664-3063-4336-b232-363766386431/1000050480.mp4
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://iptvx.one/picons/sochi-live.png",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
