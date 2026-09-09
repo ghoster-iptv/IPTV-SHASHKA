@@ -83,3 +83,9 @@ https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVR Media",TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1, .black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1, .red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1, .sci-fi
+http://stream.mcquack.net/180/index.m3u8
