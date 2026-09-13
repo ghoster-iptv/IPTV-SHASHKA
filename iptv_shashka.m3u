@@ -89,5 +89,5 @@ http://stream.mcquack.net/263/index.m3u8
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1, .sci-fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1, CLICK
+#EXTINF:-1 tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg", CLICK
 https://github.com/ghoster-iptv/iptv/raw/refs/heads/main/InShot_20260914_003623028.mp4
