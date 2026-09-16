@@ -91,3 +91,9 @@ http://stream.mcquack.net/69/index.m3u8
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg", CLICK
 https://github.com/ghoster-iptv/iptv/raw/refs/heads/main/InShot_20260914_003623028.mp4
+#EXTINF:-1 group-title="ЦТ ВГТРК",Русский роман
+http://stream.mcquack.net/266/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Русский детектив
+http://stream.mcquack.net/204/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Русский бестселлер
+http://stream.mcquack.net/208/index.m3u8
