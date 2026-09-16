@@ -97,3 +97,7 @@ http://stream.mcquack.net/266/index.m3u8
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 group-title="ЦТ ВГТРК",Русский бестселлер
 http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Комедия
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",НСТ
+http://stream.mcquack.net/207/index.m3u8
