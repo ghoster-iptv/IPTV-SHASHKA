@@ -101,3 +101,7 @@ http://stream.mcquack.net/208/index.m3u8
 http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 group-title="ЦТ ВГТРК",НСТ
 http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",FAN
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
