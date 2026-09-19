@@ -127,3 +127,9 @@ http://stream.mcquack.net/80/index.m3u8
 http://stream.mcquack.net/232/index.m3u8
 #EXTINF:-1 group-title="ЦТ ВГТРК",Мама
 http://stream.mcquack.net/79/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Ani
+http://stream.mcquack.net/306/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Мультимузыка
+http://stream.mcquack.net/82/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК", Киномульт
+https://static.tildacdn.com/vide3664-3063-4336-b232-363766386431/1000050480.mp4
