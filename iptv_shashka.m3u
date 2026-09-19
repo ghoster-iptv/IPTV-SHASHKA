@@ -133,3 +133,9 @@ http://stream.mcquack.net/306/index.m3u8
 http://stream.mcquack.net/82/index.m3u8
 #EXTINF:-1 group-title="ЦТ ВГТРК", Киномульт
 https://static.tildacdn.com/vide3664-3063-4336-b232-363766386431/1000050480.mp4
+#EXTINF:-1 group-title="North Korea",Korea Central Television
+https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1 group-title="North Korea",Ryongnamsan Television
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:-1 group-title="North Korea",Sports Television
+https://kctv.koryofront.org/stream/sports/index.m3u8
