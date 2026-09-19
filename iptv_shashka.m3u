@@ -123,3 +123,7 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/209/index.m3u8
 #EXTINF:-1 group-title="ЦТ ВГТРК",Доктор
 http://stream.mcquack.net/80/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Мульт
+http://stream.mcquack.net/232/index.m3u8
+#EXTINF:-1 group-title="ЦТ ВГТРК",Мама
+http://stream.mcquack.net/79/index.m3u8
