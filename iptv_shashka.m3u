@@ -139,3 +139,7 @@ https://kctv.koryofront.org/stream/index.m3u8
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:-1 group-title="North Korea",Sports Television
 https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:-1 group-title="viju",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="viju",viju TV1000 Русское
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
