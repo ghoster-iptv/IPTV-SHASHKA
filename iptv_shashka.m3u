@@ -139,6 +139,16 @@ https://kctv.koryofront.org/stream/index.m3u8
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:-1 group-title="North Korea",Sports Television
 https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782752641639.png" ,ТСР
+https://kctv.etoyatv.top/live/tsrsuper/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1784408141463.png" ,RUSIK / Канал ЭСС (НевоЭСС)
+https://kctv.etoyatv.top/live/tvrusik/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,DRT
+https://kctv.etoyatv.top/live/dirdirte/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_47_1788337038469.png" ,СОЛО
+https://kctv.etoyatv.top/live/solotvru/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_46_1782682814815.png" ,ДВИЖЕНИЕ
+https://kctv.etoyatv.top/live/dvizheniechannel/index.m3u8
 #EXTINF:-1 group-title="viju",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="viju",viju TV1000 Русское
