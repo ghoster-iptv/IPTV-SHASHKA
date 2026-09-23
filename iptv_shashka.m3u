@@ -143,6 +143,10 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 https://kctv.etoyatv.top/live/commet/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_167_1789862034330.png" ,ЕБ-1 Television
 https://kctv.etoyatv.top/live/eb1_television/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1786619199229.png" ,Aster
+https://kctv.etoyatv.top/live/aster_itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1784887760744.png" ,Aster Pixel
+https://kctv.etoyatv.top/live/aster_pixel/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_86_1786941179086.jpg" ,ITV SIGMOVICH
 https://kctv.etoyatv.top/live/itvsigmovichru/index.m3u8
 #EXTINF:-1 group-title="viju",viju TV1000
