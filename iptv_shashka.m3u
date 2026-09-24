@@ -89,8 +89,6 @@ http://stream.mcquack.net/263/index.m3u8
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1, .sci-fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg", CLICK
-https://github.com/ghoster-iptv/iptv/raw/refs/heads/main/InShot_20260914_003623028.mp4
 #EXTINF:-1 group-title="ЦТ ВГТРК",Русский роман
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 group-title="ЦТ ВГТРК",Русский детектив
@@ -149,6 +147,8 @@ https://kctv.etoyatv.top/live/aster_itv/index.m3u8
 https://kctv.etoyatv.top/live/aster_pixel/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_86_1786941179086.jpg" ,ITV SIGMOVICH
 https://kctv.etoyatv.top/live/itvsigmovichru/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_102_1790086299500.png" ,CLICK
+https://kctv.etoyatv.top/live/clicktv/index.m3u8
 #EXTINF:-1 group-title="viju",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="viju",viju TV1000 Русское
