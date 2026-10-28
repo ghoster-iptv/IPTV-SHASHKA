@@ -142,9 +142,9 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://radiomedved.ru/img/medved.png" ,Радио Medved
 https://air.radiomedved.ru/rm320_main
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://avatars.mds.yandex.net/get-music-misc/70850/img.6a05a6dd9dbba16c1621981d/300x300", Маруся ФМ
-https://strm.yandex.ru/live/1/vh-muz-converted/vplspjao6fl7tjqpu5nh/ysign1=6651abacd9c839f61328d87ba0bdce6e06b66862a62eaac525717d4b763e9840,abcID=94,bstrat=strm,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplezswslztkctlr6jxg,line=vpllc2ci2ntfpxffnm7s,pfx,sfx,start=1792928900,ts=6ae2103d/master.m3u8?packman=1&redirect_muz_fix=1&vsid=myyens0q2v8940qmy692ekzk9r1d2xwqb8fglgolnb7gxMWEx0001x1793027379&source_index=1
+https://bl.rutube.ru/livestream/d1988e932364478039ddcb0be412af3a/index.m3u8?s=38bMZ_UiryA0LFrb_swPUQ&e=2093174796&scheme=https
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://remixfm.ru/wp-content/uploads/cropped-logoremix-2.png", Remix FM
-https://bl.rutube.ru/livestream/9f790cf77286a9a761393b1fdf69436a/index.m3u8?s=cwzhn3upRc0rYpvhS5QS-g&e=2093173215&scheme=https
+https://bl.rutube.ru/livm/9f790cf77286a9a761393b1fdf69436a/index.m3u8?s=cwzhn3upRc0rYpvhS5QS-g&e=2093173215&scheme=https
 #EXTINF:-1 group-title="viju",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="viju",viju TV1000 Русское
