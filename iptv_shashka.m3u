@@ -141,7 +141,7 @@ https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:-1 group-title="Инет каналы", TVˣ
 http://45.158.199.55:8080/hls/tvx/index.m3u8
-#EXTINF:-1 group-title="BRIDGE MEDIA", Bridge
+#EXTINF:-1 tvg-id="bridge-tv" group-title="BRIDGE MEDIA", Bridge
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-tv-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://radiomedved.ru/img/medved.png" ,Радио Medved
 https://air.radiomedved.ru/rm320_main
