@@ -153,6 +153,12 @@ https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-classic-hd/playlist.fmp4
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-shlyager/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="BRIDGE MEDIA", Bridge Rock
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rock/playlist.fmp4.m3u8?partnerID=OpenLink
+#EXTINF:-1 group-title="BRIDGE MEDIA", Bridge Фрэш
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-newfresh/playlist.fmp4.m3u8?partnerID=OpenLink
+#EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Этно
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-etno-hd/playlist.fmp4.m3u8?partnerID=OpenLink
+#EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Deluxe
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://radiomedved.ru/img/medved.png" ,Радио Medved
 https://air.radiomedved.ru/rm320_main
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://avatars.mds.yandex.net/get-music-misc/70850/img.6a05a6dd9dbba16c1621981d/300x300", Маруся ФМ
