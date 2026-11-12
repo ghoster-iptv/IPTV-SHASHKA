@@ -164,6 +164,8 @@ https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-vkus-hd/playlist.fmp4.m3
 #EXTINF:-1 group-title="BRIDGE MEDIA",Baby Time
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-baby-time/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="BRIDGE MEDIA", Smish
+EXTINF:-1 group-title="BRIDGE MEDIA", RTG TV (VPN)
+http://arbiter.bolshoe.tv/?path=streaming/rtg/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNiA3OjU5OjM3IEFNJmhhc2hfdmFsdWU9THNXbitiM1p2TTc1ZXRtS2twcFJuUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 https://phokn2yopf.a.trbcdn.net/hls/live/6a4b8645218c080001fd4614/playlist.m3u8
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://radiomedved.ru/img/medved.png" ,Радио Medved
 https://air.radiomedved.ru/rm320_main
