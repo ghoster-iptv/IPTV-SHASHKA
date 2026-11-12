@@ -145,6 +145,10 @@ http://45.158.199.55:8080/hls/tvx/index.m3u8
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-tv-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="BRIDGE MEDIA", Bridge Русский хит
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rus-hit-hd/playlist.fmp4.m3u8?partnerID=OpenLink
+#EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Hits
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridgemedia-hits-hd/playlist.fmp4.m3u8?partnerID=OpenLink
+#EXTINF:-1 group-title="BRIDGE MEDIA", Bridge Classic
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-classic-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://radiomedved.ru/img/medved.png" ,Радио Medved
 https://air.radiomedved.ru/rm320_main
 #EXTINF:-1 group-title="РАДИО" tvg-logo="https://avatars.mds.yandex.net/get-music-misc/70850/img.6a05a6dd9dbba16c1621981d/300x300", Маруся ФМ
