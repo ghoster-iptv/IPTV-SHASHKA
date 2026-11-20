@@ -163,6 +163,8 @@ https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-hd/playlist.fmp4.m3u8?pa
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-vkus-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 #EXTINF:-1 group-title="BRIDGE MEDIA",Baby Time
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-baby-time/playlist.fmp4.m3u8?partnerID=OpenLink
+#EXTINF:-1 group-title="BRIDGE MEDIA", Bridge Dance
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA", Smish
 https://phokn2yopf.a.trbcdn.net/hls/live/6a4b8645218c080001fd4614/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA" tvg-logo="https://live.bridgetv.ru/assets/bridge-live-white.svg, Bridge Live
