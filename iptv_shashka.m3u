@@ -168,11 +168,13 @@ https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/playlist.m
 #EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Восток
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Rap
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/playlist.m3u8
+https://static.tildacdn.com/vide6130-3939-4437-b064-363166636161/1000050369.mp4
 #EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Soul
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/playlist.m3u8
+https://static.tildacdn.com/vide6130-3939-4437-b064-363166636161/1000050369.mp4
 #EXTINF:-1 group-title="BRIDGE MEDIA",Bridge RNB
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/playlist.m3u8
+https://static.tildacdn.com/vide6130-3939-4437-b064-363166636161/1000050369.mp4
+#EXTINF:-1 group-title="BRIDGE MEDIA", Bridge Alternative
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6b06886190affe00013a80d2/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA",Верба
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA",Мини Диско
