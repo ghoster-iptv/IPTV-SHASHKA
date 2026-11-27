@@ -177,6 +177,8 @@ https://static.tildacdn.com/vide6130-3939-4437-b064-363166636161/1000050369.mp4
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6b06886190affe00013a80d2/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA",Bridge Classic Rock
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6b06d16490affe00013a80d7/playlist.m3u8
+#EXTINF:-1 group-title="BRIDGE MEDIA",Bridge K-pop
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6b06d29f90affe00013a80d8/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA",Верба
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/playlist.m3u8
 #EXTINF:-1 group-title="BRIDGE MEDIA",Мини Диско
